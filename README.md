@@ -1,4 +1,4 @@
-# Mars Data Visualization Project Report
+# Mars Data Visualization
 
 ## Project Overview
 
